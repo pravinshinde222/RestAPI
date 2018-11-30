@@ -16,6 +16,8 @@ namespace ClassLibrary1
     public class Class1
     {
         public RestClient client;
+
+
         public RestRequest request;
         private RestAPIHelper helper = new RestAPIHelper();
 
